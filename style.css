@@ -87,3 +87,6 @@ input[type="submit"]:hover{
 border-color: #2691d9;
 transition: .5s;
 }
+.forgot:nav{
+text-decoration: underline;
+}
